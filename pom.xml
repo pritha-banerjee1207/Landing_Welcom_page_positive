@@ -77,6 +77,9 @@
 			<version>3.9</version>
 		</dependency>
 	</dependencies>
+	<properties>
+   <java.version>1.8</java.version>
+  </properties>
 
 	<build>
 		<plugins>
